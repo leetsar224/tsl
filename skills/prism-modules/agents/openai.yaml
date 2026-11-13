@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prism 模块开发"
+  short_description: "开发 Prism 原生资源模块、集合与加密分发，接入现有资源库和播放器"
+  default_prompt: "使用 $prism-modules 开发或完善一个 Prism 模块，验证资源、详情和播放链路，并按需生成 .prs 集合与 .prism 加密文件。"
