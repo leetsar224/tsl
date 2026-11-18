@@ -1,0 +1,7 @@
+{
+  "format": "prism.encryption-key",
+  "version": 1,
+  "algorithm": "X25519-HKDF-SHA256-A256GCM",
+  "keyId": "29471779af2ac829",
+  "publicKey": "POadVGZ6e2deYC66R8C+kMDuBQD7MQG9bB99XDva0Gw="
+}
