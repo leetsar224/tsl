@@ -1,0 +1,302 @@
+{
+  "format": "prism.module-sdk",
+  "version": 1,
+  "moduleProtocol": 1,
+  "files": [
+    {
+      "path": "Docs/Modules/Architecture.md",
+      "bytes": 4135,
+      "sha256": "65720040233d4fd19c3c1c0dfb772c8db37bbeb5c0ed315e1e4c3e6a87bd832c"
+    },
+    {
+      "path": "Docs/Modules/Distribution.md",
+      "bytes": 7101,
+      "sha256": "32a2ad11588883e607fca5e9ef110269f41497ca48e62f0de4cfbd99b5ac7e3d"
+    },
+    {
+      "path": "Docs/Modules/Encryption.md",
+      "bytes": 4408,
+      "sha256": "c01aede02fd8da1ae804100f341e6e5544da5e05991c6e18f1ee50c13a19fa81"
+    },
+    {
+      "path": "Docs/Modules/Manifest.md",
+      "bytes": 9739,
+      "sha256": "6d16c320bcbefadb48cbca75ddc499ec78e1a671b061d63d61992a724db4195c"
+    },
+    {
+      "path": "Docs/Modules/Media.md",
+      "bytes": 8436,
+      "sha256": "0769e2458d95eed710d01dd6cb87fac4db2a3f284adfd60884014e5630419832"
+    },
+    {
+      "path": "Docs/Modules/Playback.md",
+      "bytes": 10587,
+      "sha256": "b0c98eea1b49a1a59e99f1f141d92d04eb39e3f3bbec17e8713a7db4da1484a0"
+    },
+    {
+      "path": "Docs/Modules/QuickStart.md",
+      "bytes": 5388,
+      "sha256": "76fee3d4edddbdba9a8c9a03fb70a1e2ded2efa2ccd904d51db460ec37fd057e"
+    },
+    {
+      "path": "Docs/Modules/README.md",
+      "bytes": 14859,
+      "sha256": "0080796b9d55ff159fd652f89413c447df79d46a7721d2068afa921ea8ca34db"
+    },
+    {
+      "path": "Docs/Modules/Resources.md",
+      "bytes": 12028,
+      "sha256": "6797292f99f4270171442003ca82815f2917156a566061d3b78473a02118792e"
+    },
+    {
+      "path": "Docs/Modules/Runtime.md",
+      "bytes": 9789,
+      "sha256": "8d9c2c4125af62ee17501312a5deb80a53184bc4e579da8aa0dd0b31b5759f81"
+    },
+    {
+      "path": "Docs/Modules/SDK.md",
+      "bytes": 4784,
+      "sha256": "230304cacb110d69b312429a3fc0d0fdb1eaa028d7af299ae044752e7b6f7d48"
+    },
+    {
+      "path": "Docs/Modules/Testing.md",
+      "bytes": 9912,
+      "sha256": "cc2074a35d8bc2e355241b8caed70d99a2a806da68457e6f970ec549fcc01215"
+    },
+    {
+      "path": "Docs/Modules/prism-public-key.json",
+      "bytes": 194,
+      "sha256": "8857a1741d52eb69498c1756fc5f5dbe5b67eaa94ffe6e1d1d9660579aecbded"
+    },
+    {
+      "path": "Examples/Modules/catalog.js",
+      "bytes": 4107,
+      "sha256": "bee122edf942fc6fda55fb7ff6bc62ac6a11f1f5b25ae28aec695abaca28cfcb"
+    },
+    {
+      "path": "Examples/Modules/danmaku.js",
+      "bytes": 2273,
+      "sha256": "ed06f60512444ba926abdbc4c2e0117cb1319dd9f6032fdde23fb0bc9b65a62b"
+    },
+    {
+      "path": "Examples/Modules/library.js",
+      "bytes": 4438,
+      "sha256": "f9631c1619dfc9370f28b5404ed5b1c88d974ea560b00c8010ca78716b8594d9"
+    },
+    {
+      "path": "Examples/Modules/shelves.js",
+      "bytes": 4369,
+      "sha256": "395c80cdddb99ff88309b55a78decb1aa0cfa82d18e331f692a88f1e7801f430"
+    },
+    {
+      "path": "Examples/Modules/subtitles.js",
+      "bytes": 1895,
+      "sha256": "eb8ab3f0c902caa057d1bdba75f733992893957c6533da9363e21f6cf742ff65"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4823,
+      "sha256": "43aac82b603dfa04bf4d9853813729419f88cdd35697d7d372e321dc3623d558"
+    },
+    {
+      "path": "skills/prism-modules/SKILL.md",
+      "bytes": 6977,
+      "sha256": "d18c86d501503970135323266c5ef9daeb1b11360c081b965c55354f250aa846"
+    },
+    {
+      "path": "skills/prism-modules/agents/openai.yaml",
+      "bytes": 335,
+      "sha256": "ec9508b893581667fef73b285c3d48b9b44b3c848de124d3a8fb11b0e31f01ed"
+    },
+    {
+      "path": "skills/prism-modules/assets/CHEERIO-LICENSES.txt",
+      "bytes": 18624,
+      "sha256": "f754749463aba686042ad4812fcf16bd047508176a71266af54c99c52a9fc670"
+    },
+    {
+      "path": "skills/prism-modules/assets/catalog.js",
+      "bytes": 4107,
+      "sha256": "bee122edf942fc6fda55fb7ff6bc62ac6a11f1f5b25ae28aec695abaca28cfcb"
+    },
+    {
+      "path": "skills/prism-modules/assets/cheerio.bundle.js",
+      "bytes": 579054,
+      "sha256": "8c7bd1a33fc8d07da5a44ea9f84fc9488822ac1e5e2d6ab0676e707463b31f5d"
+    },
+    {
+      "path": "skills/prism-modules/assets/danmaku.js",
+      "bytes": 2273,
+      "sha256": "ed06f60512444ba926abdbc4c2e0117cb1319dd9f6032fdde23fb0bc9b65a62b"
+    },
+    {
+      "path": "skills/prism-modules/assets/library.js",
+      "bytes": 4438,
+      "sha256": "f9631c1619dfc9370f28b5404ed5b1c88d974ea560b00c8010ca78716b8594d9"
+    },
+    {
+      "path": "skills/prism-modules/assets/prism-public-key.json",
+      "bytes": 194,
+      "sha256": "8857a1741d52eb69498c1756fc5f5dbe5b67eaa94ffe6e1d1d9660579aecbded"
+    },
+    {
+      "path": "skills/prism-modules/assets/prism.d.ts",
+      "bytes": 6762,
+      "sha256": "a243e2fcc9b669097ccb80e813057840fed5bedbc34045e1fa69554589f9266b"
+    },
+    {
+      "path": "skills/prism-modules/assets/shelves.js",
+      "bytes": 4369,
+      "sha256": "395c80cdddb99ff88309b55a78decb1aa0cfa82d18e331f692a88f1e7801f430"
+    },
+    {
+      "path": "skills/prism-modules/assets/subtitles.js",
+      "bytes": 1895,
+      "sha256": "eb8ab3f0c902caa057d1bdba75f733992893957c6533da9363e21f6cf742ff65"
+    },
+    {
+      "path": "skills/prism-modules/references/architecture.md",
+      "bytes": 4137,
+      "sha256": "5d06dd09bf5a3c9060b2c7f739393d235b17edd75242f47e06feb1d4d1229e06"
+    },
+    {
+      "path": "skills/prism-modules/references/distribution.md",
+      "bytes": 7189,
+      "sha256": "528e0bf45d6b1002d68a4c0ea7280c273748463ed68ba24bbe3753da0c9be7e5"
+    },
+    {
+      "path": "skills/prism-modules/references/encryption.md",
+      "bytes": 4490,
+      "sha256": "9c9b5a41bd2ce1cbde0be1d8482d09ce726eb6885362a82ebcab26f2af8d2135"
+    },
+    {
+      "path": "skills/prism-modules/references/manifest.md",
+      "bytes": 9739,
+      "sha256": "6d16c320bcbefadb48cbca75ddc499ec78e1a671b061d63d61992a724db4195c"
+    },
+    {
+      "path": "skills/prism-modules/references/media.md",
+      "bytes": 8436,
+      "sha256": "0875e0694164b8459edd41f374b6155f8eec2445758652257eecf95864b8e9e1"
+    },
+    {
+      "path": "skills/prism-modules/references/playback.md",
+      "bytes": 10561,
+      "sha256": "325b55e4f6f3b90320c76482b0748b40d65277443e0ec7558eb8d661dbc426c6"
+    },
+    {
+      "path": "skills/prism-modules/references/protocol.md",
+      "bytes": 14917,
+      "sha256": "a60f610db0cbd5adf0aff5d4ef6341a56b24a502f0e3893db74100ab2b625e5d"
+    },
+    {
+      "path": "skills/prism-modules/references/quick-start.md",
+      "bytes": 5418,
+      "sha256": "96d33fd94c5ab2b63778c532b88f1991d21fadc6d59bace03ca7b78f44762ce6"
+    },
+    {
+      "path": "skills/prism-modules/references/resources.md",
+      "bytes": 11976,
+      "sha256": "2b98d0593faef9a61990efb3f0198b6338eeeed03c2f083fb5deb700f34cfae5"
+    },
+    {
+      "path": "skills/prism-modules/references/runtime.md",
+      "bytes": 9789,
+      "sha256": "8d9c2c4125af62ee17501312a5deb80a53184bc4e579da8aa0dd0b31b5759f81"
+    },
+    {
+      "path": "skills/prism-modules/references/sdk.md",
+      "bytes": 4933,
+      "sha256": "cbe06baa2c589c28f6145c6bfcdf4d29c123ef56efde8fc355f8a6402127bfda"
+    },
+    {
+      "path": "skills/prism-modules/references/testing.md",
+      "bytes": 10010,
+      "sha256": "d102a030a574c4ef8360d5d08494f84a53c0f0462267afb54313bc8bd4d4bec4"
+    },
+    {
+      "path": "skills/prism-modules/scripts/prism-contract.mjs",
+      "bytes": 8330,
+      "sha256": "695c3a1ca0e504a1a39091cdb1254001175977d4845ebb1d4fa560414bc2a262"
+    },
+    {
+      "path": "skills/prism-modules/scripts/prism-dev.mjs",
+      "bytes": 2514,
+      "sha256": "f58dd93acd06ab10d2a62fb13f266cf772b6fc75df8547934401abf387ef6520"
+    },
+    {
+      "path": "skills/prism-modules/scripts/prism-module.mjs",
+      "bytes": 11012,
+      "sha256": "4e383277564860497e7525e25a2e2dd3f21ee0d3b27a8f3ce9933f2543d81fac"
+    },
+    {
+      "path": "skills/prism-modules/scripts/prism-run.mjs",
+      "bytes": 14440,
+      "sha256": "41a7edf3de99d5659a511cc9d83f5890ff6594bfd36e41e2a9871a7ae4ef0896"
+    },
+    {
+      "path": "skills/prism-modules/scripts/test-example.mjs",
+      "bytes": 1789,
+      "sha256": "2bd984a521719fcd4c88000553c446b61f7d22b985f22a35789b4f27aff24304"
+    },
+    {
+      "path": "skills/prism-modules/scripts/test-module-examples.mjs",
+      "bytes": 8224,
+      "sha256": "4cfd3973982b70359b8a88106211fdf245792c029cf874c83f826b087b3b6625"
+    },
+    {
+      "path": "skills/prism-modules/scripts/test-module-sdk.mjs",
+      "bytes": 5191,
+      "sha256": "e76fe84b8032ef56efcf040f61e23b53e70e8b548c8fe8691768fa5f7045fa6d"
+    },
+    {
+      "path": "tools/CHEERIO-LICENSES.txt",
+      "bytes": 18624,
+      "sha256": "f754749463aba686042ad4812fcf16bd047508176a71266af54c99c52a9fc670"
+    },
+    {
+      "path": "tools/cheerio.bundle.js",
+      "bytes": 579054,
+      "sha256": "8c7bd1a33fc8d07da5a44ea9f84fc9488822ac1e5e2d6ab0676e707463b31f5d"
+    },
+    {
+      "path": "tools/prism-contract.mjs",
+      "bytes": 8330,
+      "sha256": "695c3a1ca0e504a1a39091cdb1254001175977d4845ebb1d4fa560414bc2a262"
+    },
+    {
+      "path": "tools/prism-dev.mjs",
+      "bytes": 2514,
+      "sha256": "f58dd93acd06ab10d2a62fb13f266cf772b6fc75df8547934401abf387ef6520"
+    },
+    {
+      "path": "tools/prism-module.mjs",
+      "bytes": 11012,
+      "sha256": "4e383277564860497e7525e25a2e2dd3f21ee0d3b27a8f3ce9933f2543d81fac"
+    },
+    {
+      "path": "tools/prism-run.mjs",
+      "bytes": 14440,
+      "sha256": "41a7edf3de99d5659a511cc9d83f5890ff6594bfd36e41e2a9871a7ae4ef0896"
+    },
+    {
+      "path": "tools/test-module-examples.mjs",
+      "bytes": 8234,
+      "sha256": "f23b7d4713639dcd1261c51f1ae9a912643afcf0573836dcc5b4faef6246f26b"
+    },
+    {
+      "path": "tools/test-module-sdk.mjs",
+      "bytes": 5191,
+      "sha256": "e76fe84b8032ef56efcf040f61e23b53e70e8b548c8fe8691768fa5f7045fa6d"
+    },
+    {
+      "path": "tools/test-prism-example.mjs",
+      "bytes": 1799,
+      "sha256": "82ead9ae2a35174691073f7d8b63b850f4b92e66cfd94be75a6bf65ee0de3869"
+    },
+    {
+      "path": "types/prism.d.ts",
+      "bytes": 6762,
+      "sha256": "a243e2fcc9b669097ccb80e813057840fed5bedbc34045e1fa69554589f9266b"
+    }
+  ]
+}
